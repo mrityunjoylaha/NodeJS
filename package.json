@@ -1,0 +1,22 @@
+{
+  "name": "sample_proj",
+  "version": "1.0.0",
+  "description": "This is a cool project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrityunjoylaha/NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrityunjoylaha/NodeJS/issues"
+  },
+  "homepage": "https://github.com/mrityunjoylaha/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
